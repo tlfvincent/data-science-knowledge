@@ -7,16 +7,10 @@ tags:
 - data-science
 - data-eng
 created_at: 2018-03-12 00:00:00
-updated_at: 2018-03-13 03:09:46.342558
+updated_at: 2018-03-13 03:16:50.642756
 tldr: A reading list for different topics in Data Science & Engineering. To be used
   as a resource to learn about new topics and discover new blogs and authors.
 ---
-**Contents**
-
-[TOC]
-
-_NOTE: this will include a table of contents when rendered on the site._
-
 ### Company Tech Blogs
 This list contains a list of company blogs that regularly publish high-quality content
 
